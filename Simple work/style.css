@@ -1,0 +1,95 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .wrapper {
+     width: 1200px;
+     margin: 0 auto;
+     margin-top: 25px;
+ }
+ 
+ .header {
+     padding: 20px;
+     background: #614e7c;
+     color: white;
+     text-align: center;
+ }
+ 
+ .menu {
+     padding: 20px;
+     background: #06aeec;
+     color: white;
+     text-align: center;
+ }
+ 
+ .wrapper-content {
+     border: 3px solid red;
+ }
+ 
+ .wrapper-content .full-content {
+     width: 1000px;
+     margin: 0 auto;
+ }
+ 
+ .wrapper-content .full-content .content-top {
+     overflow: hidden;
+     border: 3px solid green;
+ }
+ 
+ .wrapper-content .full-content .content-top .content-top-left {
+     background: #e4b6b8;
+     width: 394px;
+     height: 200px;
+     float: left;
+ }
+ 
+ .wrapper-content .full-content .content-top .content-top-right {
+     background: #943a39;
+     width: 600px;
+     height: 200px;
+     float: right;
+ }
+ 
+ .wrapper-content .full-content .content-bottom {
+     overflow: hidden;
+     border: 3px solid blue;
+ }
+ 
+ .wrapper-content .full-content .content-bottom .div-1 {
+     height: 150px;
+     width: 150px;
+     background: black;
+     color: white;
+     margin-top: 10px;
+     float: left;
+     margin-left: 152px;
+ }
+ 
+ .wrapper-content .full-content .content-bottom .div-2 {
+     height: 150px;
+     width: 150px;
+     background: black;
+     color: white;
+     margin-top: 10px;
+     float: left;
+     margin-left: 109px;
+ }
+ 
+ .wrapper-content .full-content .content-bottom .div-3 {
+     height: 150px;
+     width: 150px;
+     background: black;
+     color: white;
+     margin-top: 10px;
+     margin-bottom: 10px;
+     float: left;
+     margin-left: 116px;
+ }
+ 
+ .footer {
+     padding: 20px;
+     background: #614e7c;
+     color: white;
+     text-align: center;
+ }
